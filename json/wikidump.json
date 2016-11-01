@@ -1,0 +1,829 @@
+[
+    {
+        "albums": [
+            {
+                "artist": "Boosie Badazz",
+                "album": "In My Feelings. (Goin' Thru It)"
+            }
+        ],
+        "date": "January 1"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Anderson Paak",
+                "album": "Malibu"
+            },
+            {
+                "artist": "Blaze Ya Dead Homie",
+                "album": "The Casket Factory"
+            },
+            {
+                "artist": "Daz Dillinger & Snoop Dogg",
+                "album": "Cuzznz"
+            },
+            {
+                "artist": "Torae",
+                "album": "Entitled"
+            }
+        ],
+        "date": "January 15"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Beneficence",
+                "album": "Basement Chemistry"
+            },
+            {
+                "artist": "Kevin Gates",
+                "album": "Islah"
+            },
+            {
+                "artist": "PeeWee Longway",
+                "album": "Mr. Blue Benjamin"
+            }
+        ],
+        "date": "January 29"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Boosie Badazz",
+                "album": "Out My Feelings (In My Past)"
+            },
+            {
+                "artist": "Dizzy Wright",
+                "album": "Wisdom and Good Vibes"
+            },
+            {
+                "artist": "Trae tha Truth",
+                "album": "Tha Truth, Pt. 2"
+            },
+            {
+                "artist": "Wiz Khalifa",
+                "album": "Khalifa"
+            },
+            {
+                "artist": "Young Thug",
+                "album": "I'm Up"
+            }
+        ],
+        "date": "February 5"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Future",
+                "album": "Evol"
+            }
+        ],
+        "date": "February 6"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Statik KXNG (Statik Selektah & KXNG Crooked)",
+                "album": "Statik KXNG"
+            }
+        ],
+        "date": "February 12"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Kaliber 44",
+                "album": "U\u0142amek tarcia"
+            }
+        ],
+        "date": "February 13"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Kanye West",
+                "album": "The Life of Pablo"
+            }
+        ],
+        "date": "February 14"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Agallah",
+                "album": "Bo: The Legend of the Water Dragon"
+            }
+        ],
+        "date": "February 18"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Brotha Lynch Hung",
+                "album": "Bullet Maker"
+            },
+            {
+                "artist": "Yo Gotti",
+                "album": "The Art of Hustle"
+            },
+            {
+                "artist": "Young Dolph",
+                "album": "King of Memphis"
+            }
+        ],
+        "date": "February 19"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Yung Lean",
+                "album": "Warlord"
+            }
+        ],
+        "date": "February 25"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Macklemore & Ryan Lewis",
+                "album": "This Unruly Mess I've Made"
+            },
+            {
+                "artist": "O.S.T.R.",
+                "album": "\u017bycie po \u015bmierci"
+            },
+            {
+                "artist": "Philthy Rich",
+                "album": "Real Niggas Back in Style"
+            },
+            {
+                "artist": "Rome Fortune",
+                "album": "Jerome Raheem Fortune"
+            }
+        ],
+        "date": "February 26"
+    },
+    {
+        "albums": [
+            {
+                "artist": "2 Chainz",
+                "album": "ColleGrove"
+            },
+            {
+                "artist": "Bas",
+                "album": "Too High to Riot"
+            },
+            {
+                "artist": "Kano",
+                "album": "Made in the Manor"
+            },
+            {
+                "artist": "Kendrick Lamar",
+                "album": "untitled unmastered"
+            },
+            {
+                "artist": "Smoke DZA",
+                "album": "He Has Risen"
+            }
+        ],
+        "date": "March 4"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Flatbush Zombies",
+                "album": "3001: A Laced Odyssey"
+            }
+        ],
+        "date": "March 11"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Joell Ortiz",
+                "album": "That's Hip Hop"
+            }
+        ],
+        "date": "March 15"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Boosie Badazz",
+                "album": "Thug Talk"
+            }
+        ],
+        "date": "March 16"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Domo Genesis",
+                "album": "Genesis"
+            },
+            {
+                "artist": "Elzhi",
+                "album": "Lead Poison"
+            },
+            {
+                "artist": "N.O.R.E.",
+                "album": "Drunk Uncle"
+            },
+            {
+                "artist": "Open Mike Eagle & Paul White",
+                "album": "Hella Personal Film Festival"
+            },
+            {
+                "artist": "Planet Asia & DJ Concept",
+                "album": "Seventy Nine"
+            }
+        ],
+        "date": "March 25"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Big Sean & Jhen\u00e9 Aiko",
+                "album": "Twenty88"
+            }
+        ],
+        "date": "April 1"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Black Milk & Nat Turner",
+                "album": "The Rebellion Sessions"
+            }
+        ],
+        "date": "April 4"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Krizz Kaliko",
+                "album": "GO"
+            },
+            {
+                "artist": "Sir Michael Rocks",
+                "album": "Part 2"
+            }
+        ],
+        "date": "April 8"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Boosie Badazz & C-Murder",
+                "album": "Penitentiary Chances"
+            },
+            {
+                "artist": "J Dilla",
+                "album": "The Diary"
+            },
+            {
+                "artist": "Mr. Lif",
+                "album": "Don't Look Down"
+            },
+            {
+                "artist": "Royce da 5'9\"",
+                "album": "Layers"
+            }
+        ],
+        "date": "April 15"
+    },
+    {
+        "albums": [
+            {
+                "artist": "ASAP Ferg",
+                "album": "Always Strive and Prosper"
+            },
+            {
+                "artist": "Bankroll Mafia",
+                "album": "Bankroll Mafia"
+            }
+        ],
+        "date": "April 22"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Young Noble of The Outlawz & Deuce Deuce of Concrete Mob",
+                "album": "The Code"
+            }
+        ],
+        "date": "April 25"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Aesop Rock",
+                "album": "The Impossible Kid"
+            },
+            {
+                "artist": "Chuck Inglish & Blended Babies",
+                "album": "Ev Zeppelin"
+            },
+            {
+                "artist": "Drake",
+                "album": "Views"
+            },
+            {
+                "artist": "Freeway",
+                "album": "Free Will"
+            },
+            {
+                "artist": "Stevie Joe & Mozzy",
+                "album": "Extracurricular Activities"
+            }
+        ],
+        "date": "April 29"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Homeboy Sandman",
+                "album": "Kindness for Weakness"
+            },
+            {
+                "artist": "Rittz",
+                "album": "Top of the Line"
+            },
+            {
+                "artist": "Skepta",
+                "album": "Konnichiwa"
+            }
+        ],
+        "date": "May 6"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Boosie Badazz",
+                "album": "Bleek Mode (Thug in Peace Lil Bleek)"
+            }
+        ],
+        "date": "May 11"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Masta Ace",
+                "album": "The Falling Season"
+            }
+        ],
+        "date": "May 13"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Havoc & The Alchemist",
+                "album": "The Silent Partner"
+            },
+            {
+                "artist": "Webbie",
+                "album": "Savage Life V"
+            }
+        ],
+        "date": "May 20"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Mistah F.A.B.",
+                "album": "Son of a Pimp, Pt. 2"
+            }
+        ],
+        "date": "May 27"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Craig G",
+                "album": "I Rap and Go Home"
+            },
+            {
+                "artist": "Juicy J, Wiz Khalifa & TM88",
+                "album": "TGOD Mafia: Rude Awakening"
+            },
+            {
+                "artist": "Vic Mensa",
+                "album": "There's Alot Going On"
+            }
+        ],
+        "date": "June 3"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Apathy",
+                "album": "Handshakes with Snakes"
+            },
+            {
+                "artist": "Ill Bill",
+                "album": "Septagram"
+            }
+        ],
+        "date": "June 10"
+    },
+    {
+        "albums": [
+            {
+                "artist": "The Game",
+                "album": "Streets of Compton"
+            },
+            {
+                "artist": "YG",
+                "album": "Still Brazy"
+            }
+        ],
+        "date": "June 17"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Demrick",
+                "album": "Collect Call"
+            },
+            {
+                "artist": "DJ Shadow",
+                "album": "The Mountain Will Fall"
+            },
+            {
+                "artist": "Riff Raff",
+                "album": "Peach Panther"
+            },
+            {
+                "artist": "Ugly Heroes (Apollo Brown, Red Pill & Verbal Kent)",
+                "album": "Everything in Between"
+            }
+        ],
+        "date": "June 24"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Reef the Lost Cauze & Bear-One",
+                "album": "Furious Styles"
+            },
+            {
+                "artist": "Snoop Dogg",
+                "album": "Coolaid"
+            }
+        ],
+        "date": "July 1"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Bernz",
+                "album": "See You on the Other Side"
+            },
+            {
+                "artist": "ScHoolboy Q",
+                "album": "Blank Face LP"
+            }
+        ],
+        "date": "July 8"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Blu & Nottz",
+                "album": "Titans in the Flesh"
+            },
+            {
+                "artist": "Sadat X",
+                "album": "Agua"
+            },
+            {
+                "artist": "Z-Ro",
+                "album": "Drankin' & Drivin'"
+            }
+        ],
+        "date": "July 15"
+    },
+    {
+        "albums": [
+            {
+                "artist": "DJ Drama",
+                "album": "Quality Street Music 2"
+            },
+            {
+                "artist": "Gucci Mane",
+                "album": "Everybody Looking"
+            },
+            {
+                "artist": "Jarren Benton",
+                "album": "Slow Motion, Vol. 2"
+            },
+            {
+                "artist": "Lil Durk",
+                "album": "Lil Durk 2X"
+            }
+        ],
+        "date": "July 22"
+    },
+    {
+        "albums": [
+            {
+                "artist": "DJ Khaled",
+                "album": "Major Key"
+            },
+            {
+                "artist": "The Game",
+                "album": "Block Wars"
+            },
+            {
+                "artist": "Mitchy Slick",
+                "album": "Lost in the Yay"
+            }
+        ],
+        "date": "July 29"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Slim Thug",
+                "album": "Hogg Life Vol. 4: American King"
+            }
+        ],
+        "date": "August 5"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Atmosphere",
+                "album": "Fishing Blues"
+            },
+            {
+                "artist": "PartyNextDoor",
+                "album": "PartyNextDoor 3"
+            },
+            {
+                "artist": "Rae Sremmurd",
+                "album": "SremmLife 2"
+            }
+        ],
+        "date": "August 12"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Ka",
+                "album": "Honor Killed the Samurai"
+            }
+        ],
+        "date": "August 13"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Bishop Lamont",
+                "album": "The Reformation: G.D.N.I.A.F.T."
+            },
+            {
+                "artist": "Tory Lanez",
+                "album": "I Told You"
+            }
+        ],
+        "date": "August 19"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Banks & Steelz",
+                "album": "Anything But Words"
+            },
+            {
+                "artist": "De La Soul",
+                "album": "And the Anonymous Nobody..."
+            },
+            {
+                "artist": "Futuristic",
+                "album": "As Seen on the Internet"
+            },
+            {
+                "artist": "Prophets of Rage",
+                "album": "The Party's Over"
+            },
+            {
+                "artist": "Red Pill",
+                "album": "Instinctive Drowning"
+            },
+            {
+                "artist": "Vince Staples",
+                "album": "Prima Donna"
+            },
+            {
+                "artist": "Young Thug",
+                "album": "Jeffery"
+            }
+        ],
+        "date": "August 26"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Isaiah Rashad",
+                "album": "The Sun's Tirade"
+            },
+            {
+                "artist": "Travis Scott",
+                "album": "Birds in the Trap Sing McKnight"
+            }
+        ],
+        "date": "September 2"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Ras Kass",
+                "album": "Intellectual Property: SOI2"
+            },
+            {
+                "artist": "Reks",
+                "album": "The Greatest X"
+            }
+        ],
+        "date": "September 9"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Young Noble of The Outlawz",
+                "album": "Powerful"
+            }
+        ],
+        "date": "September 13"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Caskey",
+                "album": "No Apologies"
+            },
+            {
+                "artist": "Chinx",
+                "album": "Legends Never Die"
+            },
+            {
+                "artist": "Kool Keith",
+                "album": "Feature Magnetic"
+            },
+            {
+                "artist": "Mac Miller",
+                "album": "The Divine Feminine"
+            }
+        ],
+        "date": "September 16"
+    },
+    {
+        "albums": [
+            {
+                "artist": "OG Maco",
+                "album": "Blvk Phil Collins"
+            }
+        ],
+        "date": "September 20"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Audio Push",
+                "album": "90951"
+            },
+            {
+                "artist": "Mick Jenkins",
+                "album": "The Healing Component"
+            },
+            {
+                "artist": "Slaine",
+                "album": "Slaine Is Dead"
+            },
+            {
+                "artist": "Ty Dolla Sign",
+                "album": "Campaign"
+            },
+            {
+                "artist": "T.I.",
+                "album": "Us or Else"
+            }
+        ],
+        "date": "September 23"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Danny Brown",
+                "album": "Atrocity Exhibition"
+            }
+        ],
+        "date": "September 27"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Apollo Brown & Skyzoo",
+                "album": "The Easy Truth"
+            },
+            {
+                "artist": "Dave East",
+                "album": "Kairi Chanel"
+            },
+            {
+                "artist": "DJ Mustard",
+                "album": "Cold Summer"
+            }
+        ],
+        "date": "September 30"
+    },
+    {
+        "albums": [
+            {
+                "artist": "The Game",
+                "album": "1992"
+            },
+            {
+                "artist": "Gucci Mane",
+                "album": "Woptober"
+            },
+            {
+                "artist": "L'Orange & Mr. Lif",
+                "album": "The Life & Death of Scenery"
+            }
+        ],
+        "date": "October 14"
+    },
+    {
+        "albums": [
+            {
+                "artist": "D.R.A.M.",
+                "album": "Big Baby D.R.A.M."
+            },
+            {
+                "artist": "Joe Budden",
+                "album": "Rage & The Machine"
+            },
+            {
+                "artist": "NxWorries",
+                "album": "Yes Lawd!"
+            },
+            {
+                "artist": "Paul Wall",
+                "album": "The Houston Oiler"
+            },
+            {
+                "artist": "Zion I",
+                "album": "The Labyrinth"
+            }
+        ],
+        "date": "October 21"
+    },
+    {
+        "albums": [
+            {
+                "artist": "Riff Raff",
+                "album": "Balloween"
+            }
+        ],
+        "date": "October 25"
+    },
+    {
+        "albums": [
+            {
+                "artist": "D.I.T.C.",
+                "album": "Sessions"
+            },
+            {
+                "artist": "DJ Paul",
+                "album": "Y.O.T.S. (Year of the Six), Pt. 1"
+            },
+            {
+                "artist": "Jeezy",
+                "album": "Trap or Die 3"
+            },
+            {
+                "artist": "Journalist 103",
+                "album": "Battle of the Hearts and Minds"
+            },
+            {
+                "artist": "KXNG Crooked",
+                "album": "Valley of the KXNGS"
+            },
+            {
+                "artist": "Meek Mill",
+                "album": "DC4"
+            },
+            {
+                "artist": "Mickey Factz & Nottz",
+                "album": "The Achievement: circa '82"
+            },
+            {
+                "artist": "Vinnie Paz",
+                "album": "The Cornerstone of the Corner Store"
+            }
+        ],
+        "date": "October 28"
+    }
+]
