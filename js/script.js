@@ -1,5 +1,7 @@
 $(document).ready(function() {
-    jQuery.getJSON('csv/wikidump.csv', function(data) {
+    console.log('Document loaded!');
+    
+    jQuery.getJSON('../csv/wikidump.csv', function(data) {
         console.log(data);
     });
 });
