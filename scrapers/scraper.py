@@ -7,6 +7,7 @@ release dates of new albums and singles.
 Currently only supports albums.
 """
 
+import datetime
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -110,8 +111,11 @@ for row in table:
         print('\n')
 
 # Save the data
-with open('../json/wikidump.json', 'w') as f:
+with open('json/wikidump.json', 'w') as f:
+    now = datetime.datetime.now().strftime("%m/%d/%y %H:%M")
     data = [release.to_json() for release in new_releases]
-    output = json.dumps(data, indent=4)
+    out = {'updated': now, 'data': data}
+    output = json.dumps(out, indent=4)
     f.write(output)
     f.close()
+    print('Updated at:', now)

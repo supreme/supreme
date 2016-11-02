@@ -8,6 +8,7 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -16,15 +17,33 @@ body {
   height: 60px;
   line-height: 60px; /* Vertically center the text there */
   background-color: #f5f5f5;
+  text-align: center;
 }
-
 
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
 
+p {
+  margin: 0;
+}
+
 .container {
   width: auto;
   max-width: 680px;
   padding: 0 15px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header #updated {
+  align-self: center;
+}
+
+.release-date {
+  font-size: 18px;
+  font-weight: 500;
 }
