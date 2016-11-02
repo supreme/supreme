@@ -4,7 +4,7 @@ var months = ["January", "February", "March", "April", "May", "June",
 
 $(document).ready(function() {
     console.log('Document loaded!');
-
+    
     $.getJSON('json/wikidump.json', function(obj) {
         var updated_at = obj.updated;
         var data = obj.data;
